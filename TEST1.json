@@ -1,0 +1,56 @@
+{
+   "type_A": {
+      "type_A_1": "sf",
+      "type_A_2": "dde2",
+      "type_A_3": 45.133,
+      "type_A_4": 54
+   },
+   "type_B": [
+      {
+         "type_B_A_1": 99,
+         "type_B_A_2": "Radin",
+         "type_B_A_3": "moderate rain",
+         "type_B_A_4": "10d"
+      },
+      {
+         "type_B_B_1": 501,
+         "type_B_B_2": "FFR",
+         "type_B_B_3": "SDF rain",
+         "type_B_B_4": "FR4"
+      }
+   ],
+   "type_C": {
+      "type_C_A_1": [
+         {
+            "type_C_A_A_1": 501,
+            "type_C_A_A_2": "Radin",
+            "type_C_A_A_3": "moderate rain",
+            "type_C_A_A_4": "10d"
+         },
+         {
+            "type_C_A_B_1": 657,
+            "type_C_A_B_2": "BFGJ",
+            "type_C_A_B_3": "DSFGH rain",
+            "type_C_A_B_4": "JJYE"
+         }
+      ],
+      "type_C_B_1": [
+         {
+            "type_C_B_A_1": 90,
+            "type_C_B_A_2": "ARG2",
+            "type_C_B_A_3": "YUYIUYI rain",
+            "type_C_B_A_4": "779L"
+         },
+         {
+            "type_C_B_B_1": 426,
+            "type_C_B_B_2": "NMU",
+            "type_C_B_B_3": "YUI rain",
+            "type_C_B_B_4": "1YIP.0d"
+         }
+      ],
+      "type_D": "FGJ1235",
+      "type_D_1": "SG12"
+   },
+   "type_E": "WTFB67",
+   "type_E_1": "dfGHg556"
+}
