@@ -2,6 +2,9 @@
     "game_pictogram": "pitrogram_pencak_silat",
     "header_1": "PENCAK SILAT",
     "header_2": "EVENT SCHEDULE",
+    "font_type": "Barlow_SemiBold",
+    "header_1_color": "000000",
+    "header_2_color": "ffffff",
     "inner_bar": [
         {
             "bar_text": "MEN'S SINGLE - GOLD MEDAL MATCH"
