@@ -1,0 +1,31 @@
+{
+    "game_pictogram": "pitrogram_pencak_silat",
+    "header_1": "PENCAK SILAT",
+    "header_2": "EVENT SCHEDULE",
+    "inner_bar": [
+        {
+            "bar_text": "MEN'S SINGLE - GOLD MEDAL MATCH"
+        },
+        {
+            "bar_text": "WOMEN'S SINGLE - GOLD MEDAL MATCH"
+        },
+        {
+            "bar_text": "LOREM IPSUM DOLOR SIT AMET"
+        },
+        {
+            "bar_text": "LOREM IPSUM DOLOR SIT AMET"
+        },
+        {
+            "bar_text": "LOREM IPSUM DOLOR SIT AMET"
+        },
+        {
+            "bar_text": "LOREM IPSUM DOLOR SIT AMET"
+        },
+        {
+            "bar_text": "LOREM IPSUM DOLOR SIT AMET"
+        },
+        {
+            "bar_text": "LOREM IPSUM DOLOR SIT AMET"
+        }
+    ]
+}
